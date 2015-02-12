@@ -1,0 +1,12 @@
+CACHE MANIFEST
+index.html
+src/core.js
+src/jquery.min.js
+src/style.css
+src/reset.css
+assets/lobster.otf
+assets/logo.png
+assets/newnote.png
+NETWORK:
+*
+
